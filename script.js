@@ -1,5 +1,5 @@
  
 ..
 <script>
- console.log()
+ console.log("Here we go");
  </script>
