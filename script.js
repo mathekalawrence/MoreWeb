@@ -1,5 +1,5 @@
  
 ..
 <script>
- cons
+ console.log()
  </script>
